@@ -12,6 +12,10 @@ In the project directory, you can run:
 
 ### `npm test`
 
+## Useful Links
+
+https://codesandbox.io/p/sandbox/rtl-starter-sq54b4?file=%2Fsrc%2Fcomponents%2FProductList.js
+
 ## Authors
 
 - [@cucer](https://www.github.com/cucer)
