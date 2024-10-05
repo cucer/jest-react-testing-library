@@ -1,5 +1,4 @@
-export default function UserList({ users }) {
-  console.log('users', users);
+function UserList({ users }) {
   const renderedUsers = users.map((user) => {
     return (
       <tr key={user.name}>
@@ -17,7 +16,9 @@ export default function UserList({ users }) {
           <th>Email</th>
         </tr>
       </thead>
-      <tbody>{renderedUsers}</tbody>
+      <tbody data-testid="users">{renderedUsers}</tbody>
     </table>
   );
 }
+
+export default UserList;
