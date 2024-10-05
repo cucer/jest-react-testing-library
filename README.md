@@ -14,7 +14,7 @@ In the project directory, you can run:
 
 ## Useful Links
 
-https://codesandbox.io/p/sandbox/rtl-starter-sq54b4?file=%2Fsrc%2Fcomponents%2FProductList.js
+https://codesandbox.io/p/sandbox/rtl-starter-sq54b4
 
 ## Authors
 
