@@ -17,6 +17,18 @@ Open [URL](https://www.youtube.com/watch?v=NLFPvO8_hMQ&t=4541s) to view lecture 
    npx rtl-book serve roles-notes.js
    ```
 
+   ```sh
+   npx rtl-book serve query-notes.js
+   ```
+
+   ```sh
+   npx rtl-book serve criteria-notes.js
+   ```
+
+   ```sh
+   npx rtl-book serve matcher-notes.js
+   ```  
+
 ## Useful Links
 
 [codesandbox example1](https://codesandbox.io/p/sandbox/rtl-starter-sq54b4)
