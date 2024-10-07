@@ -50,13 +50,3 @@ Use this version below
    ```
 
 - If you get error because of waiting action, you can try async await method for your tests, check lecture1 and useful links above.
-
-
-## Author
-
-- [@cucer](https://www.github.com/cucer)
-
-<br/>
-<br/>
-
-**I have created this repo for React developers who is trying to learn how to do unit tests with jest+react testing library. Please don’t hesitate to give me a star :)**
