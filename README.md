@@ -1,15 +1,15 @@
-# Master React Testing with Jest and React Testing Library
 
-<p>This repo includes all examples of the "Master React Testing with Jest and React Testing Library" video on Youtube! 
-</p>
-
-## Copyright © 
+# Copyright © 
 
 **I just created this repo for React developers who is trying to learn how to do unit tests with jest+react testing library. Please don’t hesitate to give me a star :) All rights belong to [Stephen Grider](https://github.com/stephenGrider)**
 
-## Youtube URL
+
+## Description
+
+This repo includes all examples of the "Master React Testing with Jest and React Testing Library" video on Youtube! 
 
 Open [URL](https://www.youtube.com/watch?v=NLFPvO8_hMQ&t=4541s) to view lecture in your browser.
+
 
 ## Useful Commands
 
