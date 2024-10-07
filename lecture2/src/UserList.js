@@ -1,4 +1,5 @@
 function UserList({ users }) {
+  console.log('users', users);
   const renderedUsers = users.map((user) => {
     return (
       <tr key={user.name}>

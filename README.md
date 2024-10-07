@@ -1,21 +1,46 @@
 # Master React Testing with Jest and React Testing Library
 
-This repo includes all examples of the "Master React Testing with Jest and React Testing Library" lecture.
+<p>This repo includes all examples of the "Master React Testing with Jest and React Testing Library" lecture.
+</p>
 
 ## Youtube URL
 
 Open [URL](https://www.youtube.com/watch?v=NLFPvO8_hMQ&t=4541s) to view lecture in your browser.
 
-In the project directory, you can run:
+## Useful Commands
 
-### `npm start`
+   ```sh
+   npm run test
+   ```
 
-### `npm test`
+   ```sh
+   npx rtl-book serve roles-notes.js
+   ```
 
 ## Useful Links
 
-https://codesandbox.io/p/sandbox/rtl-starter-sq54b4
+[codesandbox example1](https://codesandbox.io/p/sandbox/rtl-starter-sq54b4)
 
-## Authors
+[async await problem](https://chrisboakes.com/fixing-act-error-react-testing-library/)
+
+## Tips
+
+- If you get act error because of @testing-library/react version, you can try async await method for your tests.
+
+Use this version below
+
+   ```sh
+   npm install @testing-library/react@14.0.0
+   ```
+
+- If you get error because of waiting action, you can try async await method for your tests, check lecture1 and useful links above.
+
+
+## Author
 
 - [@cucer](https://www.github.com/cucer)
+
+<br/>
+<br/>
+
+**I have created this repo for React developers that includes how to do unit tests with jest+react testing library. Please don’t hesitate to give me a star :)**
